@@ -1,0 +1,8 @@
+fbprophet==0.7.1
+seaborn==0.11.2
+pandas==1.4.1
+numpy==1.22.2
+matplotlib==3.5.1
+keras==2.7.0
+tensorflow==2.8.0
+sklearn==0.24.2
