@@ -1,4 +1,4 @@
-#Dockerizing assignment 1
+#Dockerizing assignment 1   
 Setup
 1. Create docker image by running the command 
 ``` docker build -t assignment/ass2:1.0 . ``` 
